@@ -9,7 +9,7 @@ mp_drawing = mp.solutions.drawing_utils
 
 # Set up the drawing canvas
 canvas_width = 640
-canvas_height = 480
+canvas_height = 480669
 drawing_canvas = np.ones((canvas_height, canvas_width, 3), dtype=np.uint8) * 255  # White canvas
 brush_color = (0, 0, 0)  # Initial color (black)
 brush_thickness = 5  # Initial brush thickness
